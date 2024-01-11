@@ -92,7 +92,7 @@ body * {
 #switch span {
   display: block;
   width: 64px;
-  height: 24px;
+  height: 22px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
   backdrop-filter: blur(4px);
@@ -108,7 +108,7 @@ ul {
   flex-direction: column;
   gap: 16px;
 
-  padding: 24px 0;
+  padding: 22px 0;
 }
 
 ul li a {
